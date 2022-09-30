@@ -7,9 +7,9 @@ ELMOON Is a Community Driven Token to Send a Rocket Filled with Elon Musk, Do Kw
 
 The ELMOON Protocol V2 is a community focused DeFi Token that forms part of the expanding ELMOON ecosystem. Four simple functions occur during each trade.
 
-Reflections : 1% is Redistributed to all existing holders
-LP Acquisition : 4% is added to liquidity
-Token Burn : 1% of tokens are burned
+Reflections : 1% is Redistributed to all existing holders<br>
+LP Acquisition : 4% is added to liquidity<br>
+Token Burn : 1% of tokens are burned<br>
 Growth Fund : 1% is added to the ELMOON ecosystem Growth Fund
 
 
