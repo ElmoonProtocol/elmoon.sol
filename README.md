@@ -9,5 +9,8 @@ Lets Send Them On a One Way Trip with a Ledger full of DOGE, FTX, GUSD and CELSI
 
 ![ELMM-1-500x460](https://user-images.githubusercontent.com/91477397/193274747-8bfc58f1-83f3-4313-a2c3-6915ccd5f7c3.png)
 
+<h3>REWARDS TO HOLDERS: 2% Liquidity TAX*: 6% Transaction tax: 1%
+*Every trade contributes towards automatically generating liquidity</h3>
+
 
 # elmoon.sol
