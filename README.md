@@ -7,4 +7,7 @@ ELMOON Is a Community Driven Token to Send a Rocket Filled with Elon Musk, Do Kw
 Lets Send Them On a One Way Trip with a Ledger full of DOGE, FTX, GUSD and CELSIUS to the Moon.
 
 
+![ELMM-1-500x460](https://user-images.githubusercontent.com/91477397/193274747-8bfc58f1-83f3-4313-a2c3-6915ccd5f7c3.png)
+
+
 # elmoon.sol
