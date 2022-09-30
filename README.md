@@ -6,8 +6,8 @@
 SCREW MARS!!, WE'RE SENDING ELON, DO, ALEX, SAM AND THE TWINS TO THE MOON</h1>
 ELMOON Is a Community Driven Token to Send a Rocket Filled with Elon Musk, Do Kwan, Alex Mashinsky, Sam Bankman-Fred, Vladimir and Tyler/Cameron Winklevoss To The Moon So They Cant Manipulate Markets Anymore!!!!!
 
-The ELMOON Protocol V2 is a community focused DeFi Token that forms part of the expanding ELMOON ecosystem.Four simple functions occur during each trade.
-
+The ELMOON Protocol V2 is a community focused DeFi Token that forms part of the expanding ELMOON ecosystem.<br>
+Four simple functions occur during each trade.
 🤙 Reflections : 1% is Redistributed to all existing holders<br>
 🤙 LP Acquisition : 6% is added to liquidity bpool<br>
 🤙 Growth Fund : 2% Tax for future Exchange listings/Marketing<br>
