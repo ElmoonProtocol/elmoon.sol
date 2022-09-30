@@ -19,4 +19,3 @@ Growth Fund : 1% is added to the ELMOON ecosystem Growth Fund
 <h3>REWARDS TO HOLDERS: 2% Liquidity TAX*: 6% Transaction tax: 1%</h3>
 *Every trade contributes towards automatically generating liquidity
 
-![CV-450x400](https://user-images.githubusercontent.com/91477397/193276183-a8b57251-1b7d-4485-bae2-697c208231f9.png)
