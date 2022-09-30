@@ -13,7 +13,7 @@ Four simple functions occur during each trade.<br>
 🤙 Growth Fund : 2% Tax for future Exchange listings/Marketing<br>
 🤙 Burn : No burn<br>
 *Every trade contributes towards automatically generating liquidity*<br>
-
+<br>
 
 ![ELMM-1-500x460](https://user-images.githubusercontent.com/91477397/193274747-8bfc58f1-83f3-4313-a2c3-6915ccd5f7c3.png)
 
