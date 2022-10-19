@@ -17,8 +17,3 @@ Simple functions occur during each trade.<br>
 ![ELMM-1-500x460](https://user-images.githubusercontent.com/91477397/193274747-8bfc58f1-83f3-4313-a2c3-6915ccd5f7c3.png)
 
 
-
-<h5>
-<a href="https://bscscan.com/token/0x8fc7C14969A3b2b687d54050C27A27e12158840B">TRACK ELMOON</a>
-</h5>
-
